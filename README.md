@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pranjal1101/dsa/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/pranjal1101/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pranjal1101/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0198-house-robber](https://github.com/pranjal1101/dsa/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pranjal1101/dsa/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/pranjal1101/dsa/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
