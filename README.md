@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/pranjal1101/dsa/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,8 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranjal1101/dsa/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranjal1101/dsa/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
