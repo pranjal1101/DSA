@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranjal1101/dsa/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/pranjal1101/dsa/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/pranjal1101/dsa/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/pranjal1101/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pranjal1101/dsa/tree/master/0073-set-matrix-zeroes) |
@@ -67,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/pranjal1101/dsa/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/pranjal1101/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
