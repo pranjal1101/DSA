@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranjal1101/dsa/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranjal1101/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/pranjal1101/dsa/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/pranjal1101/dsa/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/pranjal1101/dsa/tree/master/0059-spiral-matrix-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranjal1101/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/pranjal1101/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranjal1101/dsa/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranjal1101/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
