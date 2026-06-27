@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal1101/dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pranjal1101/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/pranjal1101/dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal1101/dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pranjal1101/dsa/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pranjal1101/dsa/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/pranjal1101/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranjal1101/dsa/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pranjal1101/dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
