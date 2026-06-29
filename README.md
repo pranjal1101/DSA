@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pranjal1101/dsa/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/pranjal1101/dsa/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pranjal1101/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/pranjal1101/dsa/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pranjal1101/dsa/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/pranjal1101/dsa/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranjal1101/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pranjal1101/dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pranjal1101/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/pranjal1101/dsa/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/pranjal1101/dsa/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
