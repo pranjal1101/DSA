@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pranjal1101/dsa/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/pranjal1101/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pranjal1101/dsa/tree/master/0100-same-tree) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/pranjal1101/dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
