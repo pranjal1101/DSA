@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pranjal1101/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/pranjal1101/dsa/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/pranjal1101/dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pranjal1101/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pranjal1101/dsa/tree/master/0059-spiral-matrix-ii) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pranjal1101/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pranjal1101/dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pranjal1101/dsa/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/pranjal1101/dsa/tree/master/0509-fibonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pranjal1101/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
