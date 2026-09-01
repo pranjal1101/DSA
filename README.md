@@ -1,170 +1,210 @@
-# DSA Problems 
+# DSA Problems
 
-My DSA solutions in Java, organized topic-wise.
+## 📌 Problems by Topic
 
-**GitHub Repository:** [pranjal1101/DSA](https://github.com/pranjal1101/DSA)
+### 🔹 Arrays
 
-## Arrays
+* [First Missing Positive](./0001-two-sum)
+* [Two Sum](./0001-two-sum)
+* [Find the Duplicate Number](./0287-find-the-duplicate-number)
+* [Intersection of Two Arrays](./0349-intersection-of-two-arrays)
+* [Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array)
+* [Max Consecutive Ones](./0485-max-consecutive-ones)
+* [Cells with Odd Values in a Matrix](./1252-cells-with-odd-values-in-a-matrix)
+* [How Many Numbers Are Smaller Than the Current Number](./1365-how-many-numbers-are-smaller-than-the-current-number)
+* [Product of Array Except Self](./product-of-array-except-self.java)
+* [Replace Elements with Greatest Element on Right Side](./replace-elements-with-greatest-element-on-right-side.java)
+* [Maximum Ascending Subarray Sum](./maximum-ascending-subarray-sum.java)
+* [Sum of Squares of Special Elements](./sum-of-squares-of-special-elements.java)
+* [Apply Operations to Make All Array Elements Equal to Zero](./apply-operations-to-make-all-array-elements-equal-to-zero.java)
+* [Array Nesting](./array-nesting.java)
+* [Special Array II](./special-array-ii.java)
+* [Sum of Mutated Array Closest to Target](./sum-of-mutated-array-closest-to-target.java)
 
-* [Two Sum](https://github.com/pranjal1101/DSA/tree/main/0001-two-sum)
-* [Median of Two Sorted Arrays](https://github.com/pranjal1101/DSA/tree/main/0004-median-of-two-sorted-arrays)
-* [First Missing Positive](https://github.com/pranjal1101/DSA/tree/main/0041-first-missing-positive)
-* [Set Matrix Zeroes](https://github.com/pranjal1101/DSA/tree/main/0073-set-matrix-zeroes)
-* [Find the Duplicate Number](https://github.com/pranjal1101/DSA/tree/main/0287-find-the-duplicate-number)
-* [Intersection of Two Arrays](https://github.com/pranjal1101/DSA/tree/main/0349-intersection-of-two-arrays)
-* [Find All Duplicates in an Array](https://github.com/pranjal1101/DSA/tree/main/0442-find-all-duplicates-in-an-array)
-* [Max Consecutive Ones](https://github.com/pranjal1101/DSA/tree/main/0485-max-consecutive-ones)
-* [Valid Triangle Number](https://github.com/pranjal1101/DSA/tree/main/0611-valid-triangle-number)
-* [Find K Closest Elements](https://github.com/pranjal1101/DSA/tree/main/0658-find-k-closest-elements)
-* [Cells with Odd Values in a Matrix](https://github.com/pranjal1101/DSA/tree/main/1252-cells-with-odd-values-in-a-matrix)
-* [How Many Numbers Are Smaller Than the Current Number](https://github.com/pranjal1101/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number)
-* [3Sum](https://github.com/pranjal1101/DSA/blob/main/3sum.java)
-* [4Sum II](https://github.com/pranjal1101/DSA/blob/main/4sum-ii.java)
-* [Array Nesting](https://github.com/pranjal1101/DSA/blob/main/array-nesting.java)
-* [Count Good Meals](https://github.com/pranjal1101/DSA/blob/main/count-good-meals.java)
-* [Count Number of Pairs With Absolute Difference K](https://github.com/pranjal1101/DSA/blob/main/count-number-of-pairs-with-absolute-difference-k.java)
-* [Find Lucky Integer in an Array](https://github.com/pranjal1101/DSA/blob/main/find-lucky-integer-in-an-array.java)
-* [Find N Unique Integers Sum Up to Zero](https://github.com/pranjal1101/DSA/blob/main/find-n-unique-integers-sum-up-to-zero.java)
-* [Four Divisors](https://github.com/pranjal1101/DSA/blob/main/four-divisors.java)
-* [K Concatenation Maximum Sum](https://github.com/pranjal1101/DSA/blob/main/k-concatenation-maximum-sum.java)
-* [Maximum Ascending Subarray Sum](https://github.com/pranjal1101/DSA/blob/main/maximum-ascending-subarray-sum.java)
-* [Product of Array Except Self](https://github.com/pranjal1101/DSA/blob/main/product-of-array-except-self.java)
-* [Random Pick Index](https://github.com/pranjal1101/DSA/blob/main/random-pick-index.java)
-* [Replace Elements with Greatest Element on Right Side](https://github.com/pranjal1101/DSA/blob/main/replace-elements-with-greatest-element-on-right-side.java)
-* [Single Number II](https://github.com/pranjal1101/DSA/blob/main/single-number-ii.java)
+### 🔹 Strings
 
-## Strings
+* [Valid Palindrome](./0125-valid-palindrome)
+* [First Unique Character in a String](./0387-first-unique-character-in-a-string)
+* [Determine if String Halves Are Alike](./determine-if-string-halves-are-alike.java)
+* [Determine if Two Strings Are Close](./determine-if-two-strings-are-close.java)
+* [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.java)
+* [Merge Strings Alternately](./merge-strings-alternately.java)
+* [Reformat Phone Number](./reformat-phone-number.java)
+* [Repeated String Match](./repeated-string-match.java)
+* [Rotate String](./rotate-string.java)
+* [Second Largest Digit in a String](./second-largest-digit-in-a-string.java)
+* [Valid Anagram](./valid-anagram.java)
+* [Word Pattern](./word-pattern.java)
+* [Maximum Number of Balloons](./maximum-number-of-balloons.java)
+* [Find Maximum Number of String Pairs](./find-maximum-number-of-string-pairs.java)
+* [Longest Palindrome After Substring Concatenation I](./longest-palindrome-after-substring-concatenation-i.java)
 
-* [Valid Palindrome](https://github.com/pranjal1101/DSA/tree/main/0125-valid-palindrome)
-* [First Unique Character in a String](https://github.com/pranjal1101/DSA/tree/main/0387-first-unique-character-in-a-string)
-* [Determine if String Halves Are Alike](https://github.com/pranjal1101/DSA/blob/main/determine-if-string-halves-are-alike.java)
-* [Determine if Two Strings Are Close](https://github.com/pranjal1101/DSA/blob/main/determine-if-two-strings-are-close.java)
-* [Decode String](https://github.com/pranjal1101/DSA/blob/main/decode-string.java)
-* [Find All Anagrams in a String](https://github.com/pranjal1101/DSA/blob/main/find-all-anagrams-in-a-string.java)
-* [Find and Replace in String](https://github.com/pranjal1101/DSA/blob/main/find-and-replace-in-string.java)
-* [Longest Substring Without Repeating Characters](https://github.com/pranjal1101/DSA/blob/main/longest-substring-without-repeating-characters.java)
-* [Reformat Phone Number](https://github.com/pranjal1101/DSA/blob/main/reformat-phone-number.java)
-* [Repeated String Match](https://github.com/pranjal1101/DSA/blob/main/repeated-string-match.java)
-* [Rotate String](https://github.com/pranjal1101/DSA/blob/main/rotate-string.java)
-* [Second Largest Digit in a String](https://github.com/pranjal1101/DSA/blob/main/second-largest-digit-in-a-string.java)
-* [Valid Anagram](https://github.com/pranjal1101/DSA/blob/main/valid-anagram.java)
-* [Word Pattern](https://github.com/pranjal1101/DSA/blob/main/word-pattern.java)
+### 🔹 HashMap / HashSet
 
-## Linked List
+* [Contains Duplicate](./0217-contains-duplicate)
+* [Happy Number](./0202-happy-number)
+* [Count Good Meals](./count-good-meals.java)
+* [Count Number of Pairs With Absolute Difference K](./count-number-of-pairs-with-absolute-difference-k.java)
+* [Design HashSet](./design-hashset.java)
+* [Find Lucky Integer in an Array](./find-lucky-integer-in-an-array.java)
+* [Random Pick Index](./random-pick-index.java)
+* [Unique Number of Occurrences](./unique-number-of-occurrences.java)
+* [Find Players With Zero or One Losses](./find-players-with-zero-or-one-losses.java)
 
-* [Add Two Numbers](https://github.com/pranjal1101/DSA/tree/main/0002-add-two-numbers)
-* [Reverse Nodes in k-Group](https://github.com/pranjal1101/DSA/tree/main/0025-reverse-nodes-in-k-group)
-* [Linked List Cycle](https://github.com/pranjal1101/DSA/tree/main/0141-linked-list-cycle)
-* [Linked List Cycle II](https://github.com/pranjal1101/DSA/tree/main/0142-linked-list-cycle-ii)
-* [Add Two Numbers II](https://github.com/pranjal1101/DSA/blob/main/add-two-numbers-ii.java)
-* [Odd Even Linked List](https://github.com/pranjal1101/DSA/blob/main/odd-even-linked-list.java)
-* [Reverse Linked List II](https://github.com/pranjal1101/DSA/blob/main/reverse-linked-list-ii.java)
+### 🔹 Sliding Window
 
-## Hashing / HashMap / HashSet
+* [Maximum Points You Can Obtain from Cards](./maximum-points-you-can-obtain-from-cards.java)
+* [Maximum Consecutive Ones III](./max-consecutive-ones-iii.java)
+* [Maximize the Confusion of an Exam](./maximize-the-confusion-of-an-exam.java)
+* [Minimum Size Subarray Sum](./minimum-size-subarray-sum.java)
+* [Longest Substring Without Repeating Characters](./longest-substring-without-repeating-characters.java)
+* [Longest Substring with At Least K Repeating Characters](./longest-substring-with-at-least-k-repeating-characters.java)
+* [Minimum Window Substring](./minimum-window-substring.java)
+* [Find All Anagrams in a String](./find-all-anagrams-in-a-string.java)
+* [Number of Substrings Containing All Three Characters](./number-of-substrings-containing-all-three-characters.java)
+* [Binary Subarrays With Sum](./binary-subarrays-with-sum.java)
+* [Count Number of Nice Subarrays](./count-number-of-nice-subarrays.java)
 
-* [Contains Duplicate](https://github.com/pranjal1101/DSA/tree/main/0217-contains-duplicate)
-* [Design HashSet](https://github.com/pranjal1101/DSA/blob/main/design-hashset.java)
-* [Count Good Meals](https://github.com/pranjal1101/DSA/blob/main/count-good-meals.java)
-* [Count Number of Pairs With Absolute Difference K](https://github.com/pranjal1101/DSA/blob/main/count-number-of-pairs-with-absolute-difference-k.java)
-* [4Sum II](https://github.com/pranjal1101/DSA/blob/main/4sum-ii.java)
+### 🔹 Prefix Sum
 
-## Stack
+* [Subarray Sum Equals K](./subarray-sum-equals-k.java)
+* [Make Sum Divisible by P](./make-sum-divisible-by-p.java)
+* [Binary Subarrays With Sum](./binary-subarrays-with-sum.java)
 
-* [Decode String](https://github.com/pranjal1101/DSA/blob/main/decode-string.java)
-* [Minimum Remove to Make Valid Parentheses](https://github.com/pranjal1101/DSA/blob/main/minimum-remove-to-make-valid-parentheses.java)
-* [Design Browser History](https://github.com/pranjal1101/DSA/blob/main/1582-design-browser-history)
-* [Simple Bank System](https://github.com/pranjal1101/DSA/blob/main/simple-bank-system.java)
+### 🔹 Two Pointers
 
-## Two Pointers / Sliding Window
+* [3Sum](./3sum.java)
+* [4Sum II](./4sum-ii.java)
+* [Valid Triangle Number](./0611-valid-triangle-number)
+* [Longest Mountain in Array](./0875-longest-mountain-in-array)
+* [Find K Closest Elements](./0658-find-k-closest-elements)
+* [Product of Array Except Self](./product-of-array-except-self.java)
 
-* [3Sum](https://github.com/pranjal1101/DSA/blob/main/3sum.java)
-* [4Sum II](https://github.com/pranjal1101/DSA/blob/main/4sum-ii.java)
-* [Valid Palindrome](https://github.com/pranjal1101/DSA/tree/main/0125-valid-palindrome)
-* [Find K Closest Elements](https://github.com/pranjal1101/DSA/tree/main/0658-find-k-closest-elements)
-* [Longest Substring Without Repeating Characters](https://github.com/pranjal1101/DSA/blob/main/longest-substring-without-repeating-characters.java)
-* [Find All Anagrams in a String](https://github.com/pranjal1101/DSA/blob/main/find-all-anagrams-in-a-string.java)
-* [Maximize the Confusion of an Exam](https://github.com/pranjal1101/DSA/blob/main/maximize-the-confusion-of-an-exam.java)
+### 🔹 Binary Search
 
-## Binary Search
+* [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays)
+* [Find K Closest Elements](./0658-find-k-closest-elements)
+* [Kth Smallest Number in Multiplication Table](./kth-smallest-number-in-multiplication-table)
+* [H-Index II](./h-index-ii.java)
+* [The Kth Factor of N](./1585-the-kth-factor-of-n)
+* [Sum of Mutated Array Closest to Target](./sum-of-mutated-array-closest-to-target.java)
 
-* [Median of Two Sorted Arrays](https://github.com/pranjal1101/DSA/tree/main/0004-median-of-two-sorted-arrays)
-* [Find K Closest Elements](https://github.com/pranjal1101/DSA/tree/main/0658-find-k-closest-elements)
-* [Kth Smallest Number in Multiplication Table](https://github.com/pranjal1101/DSA/blob/main/kth-smallest-number-in-multiplication-table.java)
+### 🔹 Linked List
 
-## Recursion / Backtracking
+* [Add Two Numbers](./0002-add-two-numbers)
+* [Add Two Numbers II](./add-two-numbers-ii.java)
+* [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group)
+* [Linked List Cycle](./0141-linked-list-cycle)
+* [Linked List Cycle II](./0142-linked-list-cycle-ii)
+* [Maximum Twin Sum of a Linked List](./maximum-twin-sum-of-a-linked-list.java)
+* [Odd Even Linked List](./odd-even-linked-list.java)
+* [Reverse Linked List II](./reverse-linked-list-ii.java)
 
-* [Combination Sum](https://github.com/pranjal1101/DSA/tree/main/0039-combination-sum)
-* [Subsets](https://github.com/pranjal1101/DSA/tree/main/0078-subsets)
-* [Subsets II](https://github.com/pranjal1101/DSA/tree/main/0090-subsets-ii)
-* [Maximum Length of a Concatenated String With Unique Characters](https://github.com/pranjal1101/DSA/blob/main/maximum-length-of-a-concatenated-string-with-unique-characters.java)
+### 🔹 Matrix
 
-## Matrix
+* [Spiral Matrix II](./0059-spiral-matrix-ii)
+* [Set Matrix Zeroes](./0073-set-matrix-zeroes)
+* [Cells with Odd Values in a Matrix](./1252-cells-with-odd-values-in-a-matrix)
 
-* [Spiral Matrix II](https://github.com/pranjal1101/DSA/tree/main/0059-spiral-matrix-ii)
-* [Set Matrix Zeroes](https://github.com/pranjal1101/DSA/tree/main/0073-set-matrix-zeroes)
-* [Cells with Odd Values in a Matrix](https://github.com/pranjal1101/DSA/tree/main/1252-cells-with-odd-values-in-a-matrix)
+### 🔹 Recursion / Backtracking
 
-## Dynamic Programming
+* [Combination Sum](./0039-combination-sum)
+* [Subsets](./0078-subsets)
+* [Subsets II](./0090-subsets-ii)
+* [Target Sum](./target-sum.java)
+* [Maximum Length of a Concatenated String With Unique Characters](./maximum-length-of-a-concatenated-string-with-unique-characters.java)
 
-* [Climbing Stairs](https://github.com/pranjal1101/DSA/tree/main/0070-climbing-stairs)
-* [House Robber](https://github.com/pranjal1101/DSA/tree/main/0198-house-robber)
-* [Fibonacci Number](https://github.com/pranjal1101/DSA/tree/main/0509-fibonacci-number)
-* [Min Cost Climbing Stairs](https://github.com/pranjal1101/DSA/tree/main/0746-min-cost-climbing-stairs)
-* [Target Sum](https://github.com/pranjal1101/DSA/blob/main/target-sum.java)
-* [K Concatenation Maximum Sum](https://github.com/pranjal1101/DSA/blob/main/k-concatenation-maximum-sum.java)
+### 🔹 Dynamic Programming
 
-## Greedy
+* [Climbing Stairs](./0070-climbing-stairs)
+* [House Robber](./0198-house-robber)
+* [Fibonacci Number](./0509-fibonacci-number)
+* [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs)
+* [Target Sum](./target-sum.java)
+* [K Concatenation Maximum Sum](./k-concatenation-maximum-sum.java)
 
-* [Broken Calculator](https://github.com/pranjal1101/DSA/blob/main/broken-calculator.java)
-* [Maximum Ascending Subarray Sum](https://github.com/pranjal1101/DSA/blob/main/maximum-ascending-subarray-sum.java)
-* [Find Minimum Log Transportation Cost](https://github.com/pranjal1101/DSA/blob/main/find-minimum-log-transportation-cost.java)
+### 🔹 Stack
 
-## Math / Number Theory
+* [Decode String](./decode-string.java)
+* [Minimum Remove to Make Valid Parentheses](./minimum-remove-to-make-valid-parentheses.java)
+* [Minimum Operations to Make a Rotated Palindrome I](./minimum-operations-to-make-a-rotated-palindrome-i.java)
 
-* [Pow(x, n)](https://github.com/pranjal1101/DSA/tree/main/0050-powx-n)
-* [Happy Number](https://github.com/pranjal1101/DSA/tree/main/0202-happy-number)
-* [Kth Factor of n](https://github.com/pranjal1101/DSA/tree/main/1585-the-kth-factor-of-n)
-* [Four Divisors](https://github.com/pranjal1101/DSA/blob/main/four-divisors.java)
-* [Find N Unique Integers Sum Up to Zero](https://github.com/pranjal1101/DSA/blob/main/find-n-unique-integers-sum-up-to-zero.java)
-* [Cells with Odd Values in a Matrix](https://github.com/pranjal1101/DSA/tree/main/1252-cells-with-odd-values-in-a-matrix)
+### 🔹 Greedy
 
-## Sorting
+* [Broken Calculator](./1033-broken-calculator)
+* [Clumsy Factorial](./clumsy-factorial.java)
+* [Integer Replacement](./integer-replacement.java)
+* [Four Divisors](./four-divisors.java)
 
-* [Intersection of Two Arrays](https://github.com/pranjal1101/DSA/tree/main/0349-intersection-of-two-arrays)
-* [Find All Duplicates in an Array](https://github.com/pranjal1101/DSA/tree/main/0442-find-all-duplicates-in-an-array)
-* [Find Lucky Integer in an Array](https://github.com/pranjal1101/DSA/blob/main/find-lucky-integer-in-an-array.java)
-* [Replace Elements with Greatest Element on Right Side](https://github.com/pranjal1101/DSA/blob/main/replace-elements-with-greatest-element-on-right-side.java)
+### 🔹 Math / Number Theory
 
-## Binary Tree
+* [Pow(x, n)](./0050-powx-n)
+* [Kth Factor of N](./1585-the-kth-factor-of-n)
+* [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.java)
+* [Four Divisors](./four-divisors.java)
+* [Sum of Decoded Numbers](./sum-of-decoded-numbers.java)
 
-* [Same Tree](https://github.com/pranjal1101/DSA/tree/main/0100-same-tree)
+### 🔹 Tree
 
-## Design / Data Structures
+* [Same Tree](./0100-same-tree)
 
-* [Design Browser History](https://github.com/pranjal1101/DSA/tree/main/1582-design-browser-history)
-* [Design HashSet](https://github.com/pranjal1101/DSA/blob/main/design-hashset.java)
-* [Simple Bank System](https://github.com/pranjal1101/DSA/blob/main/simple-bank-system.java)
-* [Button With Longest Push Time](https://github.com/pranjal1101/DSA/blob/main/button-with-longest-push-time.java)
-* [Elevator Requests I](https://github.com/pranjal1101/DSA/blob/main/elevator-requests-i.java)
+### 🔹 Design / Data Structures
 
-## Prefix Sum
+* [Design Browser History](./1582-design-browser-history)
+* [Design HashSet](./design-hashset.java)
+* [Simple Bank System](./simple-bank-system.java)
+* [Random Pick Index](./random-pick-index.java)
 
-* [Make Sum Divisible by P](https://github.com/pranjal1101/DSA/blob/main/make-sum-divisible-by-p.java)
-* [Product of Array Except Self](https://github.com/pranjal1101/DSA/blob/main/product-of-array-except-self.java)
+### 🔹 Sorting
 
-## String / Simulation
+* [Valid Triangle Number](./0611-valid-triangle-number)
+* [Find K Closest Elements](./0658-find-k-closest-elements)
+* [Majority Element II](./majority-element-ii.java)
+* [Find Players With Zero or One Losses](./find-players-with-zero-or-one-losses.java)
 
-* [Compare Version Numbers](https://github.com/pranjal1101/DSA/blob/main/compare-version-numbers.java)
-* [Merge Strings Alternately](https://github.com/pranjal1101/DSA/blob/main/merge-strings-alternately.java)
-* [Minimum Operations to Make a Rotated Palindrome I](https://github.com/pranjal1101/DSA/blob/main/minimum-operations-to-make-a-rotated-palindrome-i.java)
+### 🔹 String / Parsing
 
-## Bit Manipulation
+* [Compare Version Numbers](./compare-version-numbers.java)
+* [Find and Replace in String](./find-and-replace-in-string.java)
+* [Decode String](./decode-string.java)
+* [Longest Palindrome After Substring Concatenation I](./longest-palindrome-after-substring-concatenation-i.java)
 
-* [Single Number II](https://github.com/pranjal1101/DSA/blob/main/single-number-ii.java)
+### 🔹 Other / Miscellaneous
 
-## Other
+* [Button With Longest Push Time](./button-with-longest-push-time.java)
+* [Check If N and Its Double Exist](./check-if-n-and-its-double-exist.java)
+* [Elevator Requests I](./elevator-requests-i.java)
+* [Find N Unique Integers Sum Up to Zero](./find-n-unique-integers-sum-up-to-zero.java)
+* [Minimum Bishop Moves to Reach Target](./minimum-bishop-moves-to-reach-target.java)
+* [Student Attendance Record I](./student-attendance-record-i.java)
+* [Sum of Squares of Special Elements](./sum-of-squares-of-special-elements.java)
 
-* [Maximum Number of Balloons](https://github.com/pranjal1101/DSA/blob/main/maximum-number-of-balloons.java)
-* [Minimum Operations to Make a Rotated Palindrome I](https://github.com/pranjal1101/DSA/blob/main/minimum-operations-to-make-a-rotated-palindrome-i.java)
-* [Reformat Phone Number](https://github.com/pranjal1101/DSA/blob/main/reformat-phone-number.java)
-* [Check If N and Its Double Exist](https://github.com/pranjal1101/DSA/blob/main/check-if-n-and-its-double-exist.java)
+## 🗄️ SQL
+
+* [Delete Duplicate Emails](./delete-duplicate-emailstxt)
+* [Department Highest Salary](./department-highest-salarytxt)
+
+---
+
+## 📊 Progress
+
+**Problems Solved: 108**
+
+* Arrays
+* Strings
+* HashMap / HashSet
+* Sliding Window
+* Prefix Sum
+* Two Pointers
+* Binary Search
+* Linked List
+* Matrix
+* Recursion / Backtracking
+* Dynamic Programming
+* Stack
+* Greedy
+* Math
+* Trees
+* Design / Data Structures
+* Sorting
+* SQL
