@@ -233,6 +233,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+## Backtracking
+|  |
+| ------- |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 <!---LeetCode Topics End-->
