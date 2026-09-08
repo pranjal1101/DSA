@@ -238,6 +238,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,9 +262,18 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Math
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
