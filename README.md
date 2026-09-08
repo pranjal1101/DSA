@@ -217,6 +217,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Hash Table
