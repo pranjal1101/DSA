@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +274,7 @@
 ## Math
 |  |
 | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 ## Stack
 |  |
@@ -279,4 +284,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
