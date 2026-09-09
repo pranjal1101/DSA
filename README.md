@@ -220,6 +220,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Math
 |  |
 | ------- |
