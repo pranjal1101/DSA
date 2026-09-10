@@ -244,6 +244,7 @@
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3856-trim-trailing-vowels](https://github.com/pranjal1101/DSA/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
 | ------- |
