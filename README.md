@@ -220,6 +220,7 @@
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -229,6 +230,7 @@
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,11 +259,13 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Binary Search
 |  |
 | ------- |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,6 +275,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Math
