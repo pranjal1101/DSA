@@ -307,4 +307,8 @@
 |  |
 | ------- |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/pranjal1101/DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
