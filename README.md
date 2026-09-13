@@ -214,6 +214,7 @@
 ## Array
 |  |
 | ------- |
+| [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -281,6 +282,7 @@
 ## Math
 |  |
 | ------- |
+| [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 ## Stack
@@ -294,6 +296,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Bitmask
 |  |
