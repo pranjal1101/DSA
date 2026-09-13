@@ -225,6 +225,7 @@
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,11 +233,13 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
@@ -310,8 +313,13 @@
 |  |
 | ------- |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Database
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/pranjal1101/DSA/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
