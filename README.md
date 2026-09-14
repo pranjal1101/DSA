@@ -214,6 +214,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/pranjal1101/DSA/tree/master/0283-move-zeroes) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
@@ -322,4 +323,8 @@
 |  |
 | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/pranjal1101/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
