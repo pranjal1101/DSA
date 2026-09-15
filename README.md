@@ -248,6 +248,7 @@
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -274,6 +275,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Greedy
