@@ -227,6 +227,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2865-beautiful-towers-i](https://github.com/pranjal1101/DSA/tree/master/2865-beautiful-towers-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -275,6 +276,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Math
 |  |
@@ -328,6 +331,7 @@
 | ------- |
 | [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Database
@@ -342,4 +346,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/pranjal1101/DSA/tree/master/0283-move-zeroes) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
