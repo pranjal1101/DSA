@@ -303,6 +303,7 @@
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
+| [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
 ## Stack
 |  |
 | ------- |
@@ -341,6 +342,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
