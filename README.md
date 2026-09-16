@@ -236,6 +236,7 @@
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
+| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
@@ -248,12 +249,14 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
 ## String
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -283,6 +286,7 @@
 | [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
+| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Greedy
 |  |
 | ------- |
