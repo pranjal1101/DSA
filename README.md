@@ -300,6 +300,7 @@
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
@@ -317,6 +318,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Bitmask
@@ -352,4 +354,8 @@
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
