@@ -218,6 +218,7 @@
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
+| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -282,6 +283,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Backtracking
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
