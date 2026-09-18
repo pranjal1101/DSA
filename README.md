@@ -222,6 +222,7 @@
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -238,6 +239,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
+| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
@@ -344,6 +346,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
@@ -358,4 +361,16 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
+## Trie
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
