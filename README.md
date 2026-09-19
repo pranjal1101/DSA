@@ -305,6 +305,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Bitmask
@@ -383,4 +385,12 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
