@@ -264,6 +264,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/pranjal1101/DSA/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
@@ -310,6 +311,7 @@
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
+| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -393,4 +395,9 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
