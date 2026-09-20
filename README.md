@@ -298,6 +298,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0738-monotone-increasing-digits](https://github.com/pranjal1101/DSA/tree/master/0738-monotone-increasing-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -309,6 +310,7 @@
 | [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
+| [0738-monotone-increasing-digits](https://github.com/pranjal1101/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
