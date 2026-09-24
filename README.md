@@ -262,6 +262,7 @@
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pranjal1101/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranjal1101/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
