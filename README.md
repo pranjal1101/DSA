@@ -265,6 +265,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pranjal1101/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranjal1101/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
+| [2490-circular-sentence](https://github.com/pranjal1101/DSA/tree/master/2490-circular-sentence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/pranjal1101/DSA/tree/master/3856-trim-trailing-vowels) |
