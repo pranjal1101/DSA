@@ -281,6 +281,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/pranjal1101/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -405,4 +406,8 @@
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/pranjal1101/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
