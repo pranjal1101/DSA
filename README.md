@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
@@ -418,6 +420,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -426,6 +429,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -442,4 +446,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
