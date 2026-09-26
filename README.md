@@ -338,6 +338,7 @@
 | [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
+| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 ## Bitmask
 |  |
@@ -428,6 +429,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -462,10 +465,12 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 ## String Matching
 |  |
 | ------- |
