@@ -387,6 +387,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 ## Interactive
 |  |
@@ -424,6 +425,7 @@
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -454,8 +457,13 @@
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
