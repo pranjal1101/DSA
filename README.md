@@ -333,6 +333,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
@@ -420,6 +421,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -429,6 +431,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -446,5 +449,10 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
