@@ -427,6 +427,7 @@
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
@@ -441,6 +442,7 @@
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
@@ -452,6 +454,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -463,6 +466,7 @@
 | [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
