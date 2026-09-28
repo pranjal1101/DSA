@@ -318,6 +318,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0738-monotone-increasing-digits](https://github.com/pranjal1101/DSA/tree/master/0738-monotone-increasing-digits) |
+| [0836-rectangle-overlap](https://github.com/pranjal1101/DSA/tree/master/0836-rectangle-overlap) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
 | [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
@@ -510,4 +511,8 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pranjal1101/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
