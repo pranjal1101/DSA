@@ -341,6 +341,7 @@
 | [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 | [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Bitmask
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -453,6 +455,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -482,6 +485,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -489,6 +493,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
