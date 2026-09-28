@@ -432,6 +432,7 @@
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -448,6 +449,7 @@
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -474,11 +476,13 @@
 | [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
