@@ -365,6 +365,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/pranjal1101/DSA/tree/master/0197-rising-temperature) |
+| [1757-recyclable-and-low-fat-products](https://github.com/pranjal1101/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Enumeration
 |  |
 | ------- |
