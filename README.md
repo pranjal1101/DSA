@@ -266,3 +266,11 @@
 * [ ] Find Minimum Log Transportation Cost
 * [ ] Simple Bank System
 * [ ] Student Attendance Record I
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranjal1101/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+<!---LeetCode Topics End-->
