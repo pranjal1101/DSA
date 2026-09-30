@@ -1,570 +1,268 @@
 # DSA Problems
 
-## 📌 Problems by Topic
 
-### 🔹 Arrays
+## Arrays & Hashing
 
-* [First Missing Positive](./0001-two-sum)
-* [Two Sum](./0001-two-sum)
-* [Find the Duplicate Number](./0287-find-the-duplicate-number)
-* [Intersection of Two Arrays](./0349-intersection-of-two-arrays)
-* [Find All Duplicates in an Array](./0442-find-all-duplicates-in-an-array)
-* [Max Consecutive Ones](./0485-max-consecutive-ones)
-* [Cells with Odd Values in a Matrix](./1252-cells-with-odd-values-in-a-matrix)
-* [How Many Numbers Are Smaller Than the Current Number](./1365-how-many-numbers-are-smaller-than-the-current-number)
-* [Product of Array Except Self](./product-of-array-except-self.java)
-* [Replace Elements with Greatest Element on Right Side](./replace-elements-with-greatest-element-on-right-side.java)
-* [Maximum Ascending Subarray Sum](./maximum-ascending-subarray-sum.java)
-* [Sum of Squares of Special Elements](./sum-of-squares-of-special-elements.java)
-* [Apply Operations to Make All Array Elements Equal to Zero](./apply-operations-to-make-all-array-elements-equal-to-zero.java)
-* [Array Nesting](./array-nesting.java)
-* [Special Array II](./special-array-ii.java)
-* [Sum of Mutated Array Closest to Target](./sum-of-mutated-array-closest-to-target.java)
+* [ ] 1. Two Sum
+* [ ] 41. First Missing Positive
+* [ ] 217. Contains Duplicate
+* [ ] 283. Move Zeroes
+* [ ] 287. Find the Duplicate Number
+* [ ] 349. Intersection of Two Arrays
+* [ ] 442. Find All Duplicates in an Array
+* [ ] 485. Max Consecutive Ones
+* [ ] 1365. How Many Numbers Are Smaller Than the Current Number
+* [ ] 1848. Minimum Distance to the Target Element
+* [ ] 1984. Minimum Difference Between Highest and Lowest of K Scores
+* [ ] 2231. Largest Number After Digit Swaps by Parity
+* [ ] 2554. Maximum Number of Integers to Choose From a Range I
+* [ ] 2865. Beautiful Towers I
+* [ ] 2971. Find Polygon With the Largest Perimeter
+* [ ] Apply Operations to Make All Array Elements Equal to Zero
+* [ ] Find Lucky Integer in an Array
+* [ ] Find Players With Zero or One Losses
+* [ ] Find N Unique Integers Sum Up to Zero
+* [ ] Majority Element II
+* [ ] Product of Array Except Self
+* [ ] Replace Elements With Greatest Element on Right Side
+* [ ] Special Array II
+* [ ] Sum of Squares of Special Elements
+* [ ] Sum of Mutated Array Closest to Target
 
-### 🔹 Strings
+## Strings
 
-* [Valid Palindrome](./0125-valid-palindrome)
-* [First Unique Character in a String](./0387-first-unique-character-in-a-string)
-* [Determine if String Halves Are Alike](./determine-if-string-halves-are-alike.java)
-* [Determine if Two Strings Are Close](./determine-if-two-strings-are-close.java)
-* [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.java)
-* [Merge Strings Alternately](./merge-strings-alternately.java)
-* [Reformat Phone Number](./reformat-phone-number.java)
-* [Repeated String Match](./repeated-string-match.java)
-* [Rotate String](./rotate-string.java)
-* [Second Largest Digit in a String](./second-largest-digit-in-a-string.java)
-* [Valid Anagram](./valid-anagram.java)
-* [Word Pattern](./word-pattern.java)
-* [Maximum Number of Balloons](./maximum-number-of-balloons.java)
-* [Find Maximum Number of String Pairs](./find-maximum-number-of-string-pairs.java)
-* [Longest Palindrome After Substring Concatenation I](./longest-palindrome-after-substring-concatenation-i.java)
+* [ ] 125. Valid Palindrome
+* [ ] 2124. Check if All 'A's Appears Before All 'B's
+* [ ] 2381. Shifting Letters II
+* [ ] 2490. Circular Sentence
+* [ ] 3227. Vowels Game in a String
+* [ ] 3856. Trim Trailing Vowels
+* [ ] 387. First Unique Character in a String
+* [ ] 389. Find the Difference
+* [ ] 1758. Minimum Changes to Make Alternating Binary String
+* [ ] 2843. Count Symmetric Integers
+* [ ] Compare Version Numbers
+* [ ] Decode String
+* [ ] Determine if String Halves Are Alike
+* [ ] Determine if Two Strings Are Close
+* [ ] Find and Replace in String
+* [ ] Greatest Common Divisor of Strings
+* [ ] Longest Palindrome After Substring Concatenation I
+* [ ] Maximum Number of Balloons
+* [ ] Merge Strings Alternately
+* [ ] Reformat Phone Number
+* [ ] Repeated String Match
+* [ ] Rotate String
+* [ ] Second Largest Digit in a String
+* [ ] Valid Anagram
+* [ ] Word Pattern
 
-### 🔹 HashMap / HashSet
+## Two Pointers & Sliding Window
 
-* [Contains Duplicate](./0217-contains-duplicate)
-* [Happy Number](./0202-happy-number)
-* [Count Good Meals](./count-good-meals.java)
-* [Count Number of Pairs With Absolute Difference K](./count-number-of-pairs-with-absolute-difference-k.java)
-* [Design HashSet](./design-hashset.java)
-* [Find Lucky Integer in an Array](./find-lucky-integer-in-an-array.java)
-* [Random Pick Index](./random-pick-index.java)
-* [Unique Number of Occurrences](./unique-number-of-occurrences.java)
-* [Find Players With Zero or One Losses](./find-players-with-zero-or-one-losses.java)
+* [ ] 611. Valid Triangle Number
+* [ ] 658. Find K Closest Elements
+* [ ] 875. Longest Mountain in Array
+* [ ] 992. Subarrays With K Different Integers
+* [ ] Binary Subarrays With Sum
+* [ ] Count Number of Nice Subarrays
+* [ ] Find All Anagrams in a String
+* [ ] Longest Substring With At Least K Repeating Characters
+* [ ] Longest Substring Without Repeating Characters
+* [ ] Max Consecutive Ones III
+* [ ] Maximize the Confusion of an Exam
+* [ ] Maximum Points You Can Obtain From Cards
+* [ ] Minimum Size Subarray Sum
+* [ ] Minimum Window Substring
+* [ ] Number of Substrings Containing All Three Characters
 
-### 🔹 Sliding Window
+## Prefix Sum & Subarrays
 
-* [Maximum Points You Can Obtain from Cards](./maximum-points-you-can-obtain-from-cards.java)
-* [Maximum Consecutive Ones III](./max-consecutive-ones-iii.java)
-* [Maximize the Confusion of an Exam](./maximize-the-confusion-of-an-exam.java)
-* [Minimum Size Subarray Sum](./minimum-size-subarray-sum.java)
-* [Longest Substring Without Repeating Characters](./longest-substring-without-repeating-characters.java)
-* [Longest Substring with At Least K Repeating Characters](./longest-substring-with-at-least-k-repeating-characters.java)
-* [Minimum Window Substring](./minimum-window-substring.java)
-* [Find All Anagrams in a String](./find-all-anagrams-in-a-string.java)
-* [Number of Substrings Containing All Three Characters](./number-of-substrings-containing-all-three-characters.java)
-* [Binary Subarrays With Sum](./binary-subarrays-with-sum.java)
-* [Count Number of Nice Subarrays](./count-number-of-nice-subarrays.java)
+* [ ] 2261. K Divisible Elements Subarrays
+* [ ] 2559. Count Vowel Strings in Ranges
+* [ ] 3969. Valid Subarrays With Matching Sum Digits I
+* [ ] Continuous Subarray Sum
+* [ ] Count Number of Nice Subarrays
+* [ ] Make Sum Divisible by P
+* [ ] Subarray Sum Equals K
 
-### 🔹 Prefix Sum
-
-* [Subarray Sum Equals K](./subarray-sum-equals-k.java)
-* [Make Sum Divisible by P](./make-sum-divisible-by-p.java)
-* [Binary Subarrays With Sum](./binary-subarrays-with-sum.java)
-
-### 🔹 Two Pointers
-
-* [3Sum](./3sum.java)
-* [4Sum II](./4sum-ii.java)
-* [Valid Triangle Number](./0611-valid-triangle-number)
-* [Longest Mountain in Array](./0875-longest-mountain-in-array)
-* [Find K Closest Elements](./0658-find-k-closest-elements)
-* [Product of Array Except Self](./product-of-array-except-self.java)
-
-### 🔹 Binary Search
-
-* [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays)
-* [Find K Closest Elements](./0658-find-k-closest-elements)
-* [Kth Smallest Number in Multiplication Table](./kth-smallest-number-in-multiplication-table)
-* [H-Index II](./h-index-ii.java)
-* [The Kth Factor of N](./1585-the-kth-factor-of-n)
-* [Sum of Mutated Array Closest to Target](./sum-of-mutated-array-closest-to-target.java)
-
-### 🔹 Linked List
-
-* [Add Two Numbers](./0002-add-two-numbers)
-* [Add Two Numbers II](./add-two-numbers-ii.java)
-* [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group)
-* [Linked List Cycle](./0141-linked-list-cycle)
-* [Linked List Cycle II](./0142-linked-list-cycle-ii)
-* [Maximum Twin Sum of a Linked List](./maximum-twin-sum-of-a-linked-list.java)
-* [Odd Even Linked List](./odd-even-linked-list.java)
-* [Reverse Linked List II](./reverse-linked-list-ii.java)
-
-### 🔹 Matrix
-
-* [Spiral Matrix II](./0059-spiral-matrix-ii)
-* [Set Matrix Zeroes](./0073-set-matrix-zeroes)
-* [Cells with Odd Values in a Matrix](./1252-cells-with-odd-values-in-a-matrix)
-
-### 🔹 Recursion / Backtracking
-
-* [Combination Sum](./0039-combination-sum)
-* [Subsets](./0078-subsets)
-* [Subsets II](./0090-subsets-ii)
-* [Target Sum](./target-sum.java)
-* [Maximum Length of a Concatenated String With Unique Characters](./maximum-length-of-a-concatenated-string-with-unique-characters.java)
-
-### 🔹 Dynamic Programming
-
-* [Climbing Stairs](./0070-climbing-stairs)
-* [House Robber](./0198-house-robber)
-* [Fibonacci Number](./0509-fibonacci-number)
-* [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs)
-* [Target Sum](./target-sum.java)
-* [K Concatenation Maximum Sum](./k-concatenation-maximum-sum.java)
-
-### 🔹 Stack
-
-* [Decode String](./decode-string.java)
-* [Minimum Remove to Make Valid Parentheses](./minimum-remove-to-make-valid-parentheses.java)
-* [Minimum Operations to Make a Rotated Palindrome I](./minimum-operations-to-make-a-rotated-palindrome-i.java)
-
-### 🔹 Greedy
-
-* [Broken Calculator](./1033-broken-calculator)
-* [Clumsy Factorial](./clumsy-factorial.java)
-* [Integer Replacement](./integer-replacement.java)
-* [Four Divisors](./four-divisors.java)
-
-### 🔹 Math / Number Theory
-
-* [Pow(x, n)](./0050-powx-n)
-* [Kth Factor of N](./1585-the-kth-factor-of-n)
-* [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.java)
-* [Four Divisors](./four-divisors.java)
-* [Sum of Decoded Numbers](./sum-of-decoded-numbers.java)
-
-### 🔹 Tree
-
-* [Same Tree](./0100-same-tree)
-
-### 🔹 Design / Data Structures
-
-* [Design Browser History](./1582-design-browser-history)
-* [Design HashSet](./design-hashset.java)
-* [Simple Bank System](./simple-bank-system.java)
-* [Random Pick Index](./random-pick-index.java)
-
-### 🔹 Sorting
-
-* [Valid Triangle Number](./0611-valid-triangle-number)
-* [Find K Closest Elements](./0658-find-k-closest-elements)
-* [Majority Element II](./majority-element-ii.java)
-* [Find Players With Zero or One Losses](./find-players-with-zero-or-one-losses.java)
-
-### 🔹 String / Parsing
-
-* [Compare Version Numbers](./compare-version-numbers.java)
-* [Find and Replace in String](./find-and-replace-in-string.java)
-* [Decode String](./decode-string.java)
-* [Longest Palindrome After Substring Concatenation I](./longest-palindrome-after-substring-concatenation-i.java)
-
-### 🔹 Other / Miscellaneous
-
-* [Button With Longest Push Time](./button-with-longest-push-time.java)
-* [Check If N and Its Double Exist](./check-if-n-and-its-double-exist.java)
-* [Elevator Requests I](./elevator-requests-i.java)
-* [Find N Unique Integers Sum Up to Zero](./find-n-unique-integers-sum-up-to-zero.java)
-* [Minimum Bishop Moves to Reach Target](./minimum-bishop-moves-to-reach-target.java)
-* [Student Attendance Record I](./student-attendance-record-i.java)
-* [Sum of Squares of Special Elements](./sum-of-squares-of-special-elements.java)
-
-## 🗄️ SQL
-
-* [Delete Duplicate Emails](./delete-duplicate-emailstxt)
-* [Department Highest Salary](./department-highest-salarytxt)
-
----
-
-## 📊 Progress
-
-**Problems Solved: 108**
-
-* Arrays
-* Strings
-* HashMap / HashSet
-* Sliding Window
-* Prefix Sum
-* Two Pointers
-* Binary Search
-* Linked List
-* Matrix
-* Recursion / Backtracking
-* Dynamic Programming
-* Stack
-* Greedy
-* Math
-* Trees
-* Design / Data Structures
-* Sorting
-* SQL
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0283-move-zeroes](https://github.com/pranjal1101/DSA/tree/master/0283-move-zeroes) |
-| [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
-| [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
-| [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
-| [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
-| [1848-minimum-distance-to-the-target-element](https://github.com/pranjal1101/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
-| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
-| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
-| [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
-| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
-| [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
-| [2865-beautiful-towers-i](https://github.com/pranjal1101/DSA/tree/master/2865-beautiful-towers-i) |
-| [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
-| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
-| [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
-| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
-| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
-## Hash Table
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-| [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
-| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
-| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
-| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
-## Sliding Window
-|  |
-| ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
-| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
-| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
-## Counting
-|  |
-| ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/pranjal1101/DSA/tree/master/0992-subarrays-with-k-different-integers) |
-| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
-## String
-|  |
-| ------- |
-| [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
-| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
-| [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
-| [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
-| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pranjal1101/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
-| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranjal1101/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
-| [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
-| [2490-circular-sentence](https://github.com/pranjal1101/DSA/tree/master/2490-circular-sentence) |
-| [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
-| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
-| [3856-trim-trailing-vowels](https://github.com/pranjal1101/DSA/tree/master/3856-trim-trailing-vowels) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-## Sorting
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/pranjal1101/DSA/tree/master/0389-find-the-difference) |
-| [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
-| [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
-| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pranjal1101/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
-| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/pranjal1101/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
-| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
-| [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
-| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Binary Search
-|  |
-| ------- |
-| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
-| [1300-sum-of-mutated-array-closest-to-target](https://github.com/pranjal1101/DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
-| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
-## Backtracking
-|  |
-| ------- |
-| [0093-restore-ip-addresses](https://github.com/pranjal1101/DSA/tree/master/0093-restore-ip-addresses) |
-| [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
-| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
-| [0842-split-array-into-fibonacci-sequence](https://github.com/pranjal1101/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-| [1079-letter-tile-possibilities](https://github.com/pranjal1101/DSA/tree/master/1079-letter-tile-possibilities) |
-## Greedy
-|  |
-| ------- |
-| [0738-monotone-increasing-digits](https://github.com/pranjal1101/DSA/tree/master/0738-monotone-increasing-digits) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranjal1101/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
-| [2952-minimum-number-of-coins-to-be-added](https://github.com/pranjal1101/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
-| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
-| [3207-maximum-points-after-enemy-battles](https://github.com/pranjal1101/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
-## Math
-|  |
-| ------- |
-| [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
-| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
-| [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
-| [0738-monotone-increasing-digits](https://github.com/pranjal1101/DSA/tree/master/0738-monotone-increasing-digits) |
-| [0836-rectangle-overlap](https://github.com/pranjal1101/DSA/tree/master/0836-rectangle-overlap) |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-| [1840-maximum-building-height](https://github.com/pranjal1101/DSA/tree/master/1840-maximum-building-height) |
-| [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
-| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
-## Stack
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0145-binary-tree-postorder-traversal) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [2865-beautiful-towers-i](https://github.com/pranjal1101/DSA/tree/master/2865-beautiful-towers-i) |
-## Monotonic Stack
-|  |
-| ------- |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal1101/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [2865-beautiful-towers-i](https://github.com/pranjal1101/DSA/tree/master/2865-beautiful-towers-i) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
-| [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
-| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
-| [0553-optimal-division](https://github.com/pranjal1101/DSA/tree/master/0553-optimal-division) |
-| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
-## Bitmask
-|  |
-| ------- |
-| [0996-number-of-squareful-arrays](https://github.com/pranjal1101/DSA/tree/master/0996-number-of-squareful-arrays) |
-## Simulation
-|  |
-| ------- |
-| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
-## Prefix Sum
-|  |
-| ------- |
-| [2381-shifting-letters-ii](https://github.com/pranjal1101/DSA/tree/master/2381-shifting-letters-ii) |
-| [2559-count-vowel-strings-in-ranges](https://github.com/pranjal1101/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
-| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
-| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pranjal1101/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
-| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/pranjal1101/DSA/tree/master/0197-rising-temperature) |
-| [0584-find-customer-referee](https://github.com/pranjal1101/DSA/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/pranjal1101/DSA/tree/master/0595-big-countries) |
-| [1068-product-sales-analysis-i](https://github.com/pranjal1101/DSA/tree/master/1068-product-sales-analysis-i) |
-| [1148-article-views-i](https://github.com/pranjal1101/DSA/tree/master/1148-article-views-i) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pranjal1101/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1683-invalid-tweets](https://github.com/pranjal1101/DSA/tree/master/1683-invalid-tweets) |
-| [1757-recyclable-and-low-fat-products](https://github.com/pranjal1101/DSA/tree/master/1757-recyclable-and-low-fat-products) |
-## Enumeration
-|  |
-| ------- |
-| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
-| [2843-count-symmetric-integers](https://github.com/pranjal1101/DSA/tree/master/2843-count-symmetric-integers) |
-| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/pranjal1101/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/pranjal1101/DSA/tree/master/0283-move-zeroes) |
-## Polygons
-|  |
-| ------- |
-| [2971-find-polygon-with-the-largest-perimeter](https://github.com/pranjal1101/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
-## Recursion
-|  |
-| ------- |
-| [0233-number-of-digit-one](https://github.com/pranjal1101/DSA/tree/master/0233-number-of-digit-one) |
-## Trie
-|  |
-| ------- |
-| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
-## Rolling Hash
-|  |
-| ------- |
-| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
-## Hash Function
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
-| [2261-k-divisible-elements-subarrays](https://github.com/pranjal1101/DSA/tree/master/2261-k-divisible-elements-subarrays) |
-## Interactive
-|  |
-| ------- |
-| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
-## Ternary Search
-|  |
-| ------- |
-| [1095-find-in-mountain-array](https://github.com/pranjal1101/DSA/tree/master/1095-find-in-mountain-array) |
-## Minimax
-|  |
-| ------- |
-| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
-## Game Theory
-|  |
-| ------- |
-| [0375-guess-number-higher-or-lower-ii](https://github.com/pranjal1101/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
-| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
-## Brainteaser
-|  |
-| ------- |
-| [3227-vowels-game-in-a-string](https://github.com/pranjal1101/DSA/tree/master/3227-vowels-game-in-a-string) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/pranjal1101/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
-## Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/pranjal1101/DSA/tree/master/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/pranjal1101/DSA/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0110-balanced-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0110-balanced-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal1101/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
-| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
-| [0437-path-sum-iii](https://github.com/pranjal1101/DSA/tree/master/0437-path-sum-iii) |
-| [0450-delete-node-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0450-delete-node-in-a-bst) |
-| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
-| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
-| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/pranjal1101/DSA/tree/master/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/pranjal1101/DSA/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0110-balanced-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal1101/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
-| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
-| [0437-path-sum-iii](https://github.com/pranjal1101/DSA/tree/master/0437-path-sum-iii) |
-| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
-| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
-| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/pranjal1101/DSA/tree/master/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/pranjal1101/DSA/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal1101/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
-| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-## Binary Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/pranjal1101/DSA/tree/master/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/pranjal1101/DSA/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0110-balanced-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0110-balanced-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/pranjal1101/DSA/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/pranjal1101/DSA/tree/master/0113-path-sum-ii) |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal1101/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
-| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/pranjal1101/DSA/tree/master/0145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0257-binary-tree-paths](https://github.com/pranjal1101/DSA/tree/master/0257-binary-tree-paths) |
-| [0437-path-sum-iii](https://github.com/pranjal1101/DSA/tree/master/0437-path-sum-iii) |
-| [0450-delete-node-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0450-delete-node-in-a-bst) |
-| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
-| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
-| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
-## DP on Trees
-|  |
-| ------- |
-| [0124-binary-tree-maximum-path-sum](https://github.com/pranjal1101/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-| [0968-binary-tree-cameras](https://github.com/pranjal1101/DSA/tree/master/0968-binary-tree-cameras) |
-| [0979-distribute-coins-in-binary-tree](https://github.com/pranjal1101/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
-| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pranjal1101/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
-## String Matching
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/pranjal1101/DSA/tree/master/0572-subtree-of-another-tree) |
+
+* [ ] 4. Median of Two Sorted Arrays
+* [ ] 375. Guess Number Higher or Lower II
+* [ ] 658. Find K Closest Elements
+* [ ] 700. Search in a Binary Search Tree
+* [ ] 701. Insert Into a Binary Search Tree
+* [ ] 1095. Find in Mountain Array
+* [ ] 1300. Sum of Mutated Array Closest to Target
+* [ ] Guess Number Higher or Lower
+* [ ] H-Index II
+* [ ] Kth Smallest Number in Multiplication Table
+* [ ] Sum of Mutated Array Closest to Target
+
 ## Linked List
-|  |
-| ------- |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal1101/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
-## Binary Lifting
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-## Lowest Common Ancestor
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranjal1101/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
-## Geometry
-|  |
-| ------- |
-| [0836-rectangle-overlap](https://github.com/pranjal1101/DSA/tree/master/0836-rectangle-overlap) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0098-validate-binary-search-tree) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0450-delete-node-in-a-bst](https://github.com/pranjal1101/DSA/tree/master/0450-delete-node-in-a-bst) |
-| [0700-search-in-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjal1101/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-<!---LeetCode Topics End-->
+
+* [ ] 2. Add Two Numbers
+* [ ] 25. Reverse Nodes in k-Group
+* [ ] 141. Linked List Cycle
+* [ ] 142. Linked List Cycle II
+* [ ] Add Two Numbers II
+* [ ] Maximum Twin Sum of a Linked List
+* [ ] Odd Even Linked List
+* [ ] Reverse Linked List II
+
+## Stack & Queue
+
+* [ ] 25. Reverse Nodes in k-Group
+* [ ] 1585. The Kth Factor of N
+* [ ] Minimum Remove to Make Valid Parentheses
+* [ ] Minimum Operations to Make a Rotated Palindrome I
+
+## Trees & Binary Search Trees
+
+* [ ] 98. Validate Binary Search Tree
+* [ ] 100. Same Tree
+* [ ] 101. Symmetric Tree
+* [ ] 102. Binary Tree Level Order Traversal
+* [ ] 104. Maximum Depth of Binary Tree
+* [ ] 108. Convert Sorted Array to Binary Search Tree
+* [ ] 110. Balanced Binary Tree
+* [ ] 111. Minimum Depth of Binary Tree
+* [ ] 112. Path Sum
+* [ ] 113. Path Sum II
+* [ ] 116. Populating Next Right Pointers in Each Node
+* [ ] 124. Binary Tree Maximum Path Sum
+* [ ] 144. Binary Tree Preorder Traversal
+* [ ] 145. Binary Tree Postorder Traversal
+* [ ] 226. Invert Binary Tree
+* [ ] 230. Kth Smallest Element in a BST
+* [ ] 235. Lowest Common Ancestor of a Binary Search Tree
+* [ ] 257. Binary Tree Paths
+* [ ] 437. Path Sum III
+* [ ] 450. Delete Node in a BST
+* [ ] 572. Subtree of Another Tree
+* [ ] 700. Search in a Binary Search Tree
+* [ ] 701. Insert Into a Binary Search Tree
+* [ ] 865. Smallest Subtree With All the Deepest Nodes
+* [ ] 968. Binary Tree Cameras
+* [ ] 979. Distribute Coins in Binary Tree
+* [ ] 1372. Longest ZigZag Path in a Binary Tree
+
+## Matrix
+
+* [ ] 59. Spiral Matrix II
+* [ ] 73. Set Matrix Zeroes
+* [ ] 1252. Cells With Odd Values in a Matrix
+* [ ] 836. Rectangle Overlap
+
+## Backtracking & Recursion
+
+* [ ] 39. Combination Sum
+* [ ] 78. Subsets
+* [ ] 90. Subsets II
+* [ ] 93. Restore IP Addresses
+* [ ] 842. Split Array Into Fibonacci Sequence
+* [ ] 996. Number of Squareful Arrays
+* [ ] 1079. Letter Tile Possibilities
+* [ ] Maximum Length of a Concatenated String With Unique Characters
+* [ ] Target Sum
+
+## Dynamic Programming
+
+* [ ] 70. Climbing Stairs
+* [ ] 198. House Robber
+* [ ] 509. Fibonacci Number
+* [ ] 746. Min Cost Climbing Stairs
+* [ ] 1033. Broken Calculator
+* [ ] 1840. Maximum Building Height
+* [ ] 3207. Maximum Points After Enemy Battles
+* [ ] Clumsy Factorial
+* [ ] Integer Replacement
+* [ ] K-Concatenation Maximum Sum
+* [ ] Target Sum
+
+## Greedy
+
+* [ ] 738. Monotone Increasing Digits
+* [ ] 1033. Broken Calculator
+* [ ] 1840. Maximum Building Height
+* [ ] 2554. Maximum Number of Integers to Choose From a Range I
+* [ ] 2865. Beautiful Towers I
+* [ ] 2952. Minimum Number of Coins to Be Added
+* [ ] 2971. Find Polygon With the Largest Perimeter
+* [ ] Maximum Ascending Subarray Sum
+
+## Math & Number Theory
+
+* [ ] 50. Pow(x, n)
+* [ ] 202. Happy Number
+* [ ] 233. Number of Digit One
+* [ ] 509. Fibonacci Number
+* [ ] 553. Optimal Division
+* [ ] 1585. The Kth Factor of N
+* [ ] 2843. Count Symmetric Integers
+* [ ] Clumsy Factorial
+* [ ] Four Divisors
+* [ ] Greatest Common Divisor of Strings
+* [ ] Integer Replacement
+* [ ] Second Largest Digit in a String
+* [ ] Single Number II
+* [ ] Sum of Decoded Numbers
+* [ ] Sum of Squares of Special Elements
+
+## Bit Manipulation
+
+* [ ] 389. Find the Difference
+* [ ] 1365. How Many Numbers Are Smaller Than the Current Number
+* [ ] Single Number II
+* [ ] Sum of Decoded Numbers
+
+## Hashing & Hash-Based Data Structures
+
+* [ ] 1. Two Sum
+* [ ] 202. Happy Number
+* [ ] 217. Contains Duplicate
+* [ ] 349. Intersection of Two Arrays
+* [ ] 387. First Unique Character in a String
+* [ ] 442. Find All Duplicates in an Array
+* [ ] 992. Subarrays With K Different Integers
+* [ ] Design HashSet
+* [ ] Random Pick Index
+* [ ] Unique Number of Occurrences
+* [ ] Valid Anagram
+* [ ] Word Pattern
+
+## Design & Data Structures
+
+* [ ] Design HashSet
+* [ ] Simple Bank System
+* [ ] Random Pick Index
+* [ ] Button With Longest Push Time
+* [ ] Elevator Requests I
+* [ ] 1585. The Kth Factor of N
+
+## SQL
+
+* [ ] 197. Rising Temperature
+* [ ] 584. Find Customer Referee
+* [ ] 595. Big Countries
+* [ ] 1068. Product Sales Analysis I
+* [ ] 1148. Article Views I
+* [ ] 1378. Replace Employee ID With the Unique Identifier
+* [ ] 1683. Invalid Tweets
+* [ ] 1757. Recyclable and Low Fat Products
+* [ ] Delete Duplicate Emails
+* [ ] Department Highest Salary
+
+## Other / Simulation
+
+* [ ] 233. Number of Digit One
+* [ ] 1582. Design Browser History
+* [ ] 2124. Check if All 'A's Appears Before All 'B's
+* [ ] 2231. Largest Number After Digit Swaps by Parity
+* [ ] 2381. Shifting Letters II
+* [ ] 3207. Maximum Points After Enemy Battles
+* [ ] 3494. Find the Minimum Amount of Time to Brew Potions
+* [ ] 3856. Trim Trailing Vowels
+* [ ] Find Minimum Log Transportation Cost
+* [ ] Simple Bank System
+* [ ] Student Attendance Record I
