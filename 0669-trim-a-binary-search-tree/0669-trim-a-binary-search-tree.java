@@ -17,18 +17,24 @@ class Solution {
     public TreeNode trimBST(TreeNode root,int low,int high){
         if(root==null) return null;
         if(root.val<low){
-            if(root.right==null&&root.left==null||root.left!=null&&root.right==null) return null;
-            if(root.right==null) return null;
-            else return trimBST(root.right,low,high);
+           return solve(root.right,null,low,high);
         }
-        else if(root.val>high){
-            if(root.right==null&&root.left==null||root.left==null&&root.right!=null) return null;
-            if(root.left==null) return null;
-            else return trimBST(root.left,low,high);
+        if(root.val>high){
+            return solve(root.left,null,low,high);
         }
-        else{
-            if(root.left!=null) root.left=trimBST(root.left,low,high);
-            if(root.right!=null) root.right=trimBST(root.right,low,high);
+        root.left=trimBST(root.left,low,high);
+        root.right=trimBST(root.right,low,high);
+        return root;
+    }
+    public TreeNode solve(TreeNode root,TreeNode parent,int low,int high){
+        if(root==null) return null;
+        if(root.val<low) return solve(root.right,parent,low,high);
+        if(root.val>high) return solve(root.left,parent,low,high);
+        root.left=trimBST(root.left,low,high);
+        root.right=trimBST(root.right,low,high);
+        if(parent!=null){
+            if(root.val<parent.val) parent.left=root;
+            else parent.right=root;
         }
         return root;
     }
