@@ -21,9 +21,7 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             arr[i]=x.get(i);
         }
-        TreeNode ans=sortedArrayToBST(arr);
-        return ans;
-
+        return build(arr,0,arr.length-1);
     }
     public List<Integer> inorderTraversal(TreeNode root) {
         inorder(root);
@@ -36,9 +34,6 @@ class Solution {
         inorder(node.left);
         ans.add(node.val);
         inorder(node.right);
-    }
-    public TreeNode sortedArrayToBST(int[] nums){
-        return build(nums,0,nums.length-1);
     }
     private TreeNode build(int[] nums,int l,int r){
         if(l>r) return null;
