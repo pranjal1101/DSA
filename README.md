@@ -274,4 +274,8 @@
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranjal1101/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/pranjal1101/DSA/tree/master/1661-average-time-of-process-per-machine) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/pranjal1101/DSA/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
