@@ -278,17 +278,29 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/pranjal1101/DSA/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/pranjal1101/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/pranjal1101/DSA/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/pranjal1101/DSA/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/pranjal1101/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pranjal1101/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pranjal1101/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
