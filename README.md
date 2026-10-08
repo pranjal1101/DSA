@@ -277,5 +277,18 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
 | [1791-find-center-of-star-graph](https://github.com/pranjal1101/DSA/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/pranjal1101/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
